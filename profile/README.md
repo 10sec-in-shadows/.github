@@ -6,15 +6,12 @@ Welcome to the lair of **10sec-in-shadows** — a UK-based dev squad obsessed wi
 
 We’re the creators behind **[The Mafia Project](https://themafiaproject.studio)**, where strategy, chaos, and multiplayer madness collide. Made with ❤️ and a hint of caffeine-induced mania.  
 
----
 
 ## 🚀 Our Repositories
 
 | Repository | Description | License |
 |------------|------------|--------|
 | **backend-go** | 😒 Destroys and consumes RAM. High-octane Go backend for The Mafia Project. | GPL-3.0 |
-
----
 
 ## 🌌 Who We Are
 
